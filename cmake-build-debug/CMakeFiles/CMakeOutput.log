@@ -1,0 +1,586 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" succeeded.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp
+
+The output was:
+0
+
+C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>call "C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-2.bat" 
+
+C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>set  1>C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-1 
+#$ VSINSTALLDIR=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../
+#$ VCINSTALLDIR=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/
+#$ C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/bin/amd64/vcvars64.bat
+#$ ALLUSERSPROFILE=C:\ProgramData
+#$ ANDROID_HOME=D:\develop\Android\sdk
+#$ APPDATA=C:\Users\songzeceng\AppData\Roaming
+#$ CLion=D:\develop\CLion 2020.2.4\bin;
+#$ CLION_IDE=TRUE
+#$ CommandPromptType=Native
+#$ CommonProgramFiles=C:\Program Files\Common Files
+#$ CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+#$ CommonProgramW6432=C:\Program Files\Common Files
+#$ COMPOSE_CONVERT_WINDOWS_PATHS=true
+#$ COMPUTERNAME=LAPTOP-GCPD2768
+#$ ComSpec=C:\WINDOWS\system32\cmd.exe
+#$ CONDA_BAT=D:\develop\Miniconda3\condabin\conda.bat
+#$ CONDA_EXE=D:\develop\Miniconda3\Scripts\conda.exe
+#$ CONDA_SHLVL=0
+#$ CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+#$ CUDA_PATH_V10_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
+#$ CUDA_PATH_V10_2=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+#$ DevEnvDir=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\
+#$ DOCKER_CERT_PATH=C:\Users\songzeceng\.docker\machine\machines\default
+#$ DOCKER_HOST=tcp://192.168.99.101:2376
+#$ DOCKER_MACHINE_NAME=default
+#$ DOCKER_TLS_VERIFY=1
+#$ DriverData=C:\Windows\System32\Drivers\DriverData
+#$ FLINK_CONF_DIR=D:\develop\flink-1.7.2\conf
+#$ FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+#$ Framework40Version=v4.0
+#$ FrameworkDir=C:\Windows\Microsoft.NET\Framework64
+#$ FrameworkDIR32=C:\Windows\Microsoft.NET\Framework\
+#$ FrameworkDIR64=C:\Windows\Microsoft.NET\Framework64
+#$ FrameworkVersion=v4.0.30319
+#$ FrameworkVersion32=v4.0.30319
+#$ FrameworkVersion64=v4.0.30319
+#$ GOPATH=C:\Users\songzeceng\go;D:\develop\Go\workspace\;
+#$ HOMEDRIVE=C:
+#$ HOMEPATH=\Users\songzeceng
+#$ IDEA_INITIAL_DIRECTORY=C:\WINDOWS\System32
+#$ INCLUDE=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/INCLUDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\8.1\include\\shared;C:\Program Files (x86)\Windows Kits\8.1\include\\um;C:\Program Files (x86)\Windows Kits\8.1\include\\winrt;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\8.1\include\\shared;C:\Program Files (x86)\Windows Kits\8.1\include\\um;C:\Program Files (x86)\Windows Kits\8.1\include\\winrt;
+#$ IntelliJ IDEA Community Edition=D:\develop\IntelliJ IDEA Community Edition 2019.1.3\bin;
+#$ JAVA_HOME=D:\develop\jdk1.8.0_231_x64
+#$ JETBRAINS_IDE=TRUE
+#$ LIB=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/LIB\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64;
+#$ LIBPATH=C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/LIB\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral;\Microsoft.VCLibs\14.0\References\CommonConfiguration\neutral;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\ATLMFC\LIB\amd64;C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral;\Microsoft.VCLibs\14.0\References\CommonConfiguration\neutral;
+#$ LOCALAPPDATA=C:\Users\songzeceng\AppData\Local
+#$ LOGONSERVER=\\LAPTOP-GCPD2768
+#$ NEO4J_HOME=D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1
+#$ NETFXSDKDir=C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\
+#$ NO_PROXY=192.168.99.100,192.168.99.101
+#$ NUMBER_OF_PROCESSORS=12
+#$ NVCUDASAMPLES10_0_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.0
+#$ NVCUDASAMPLES_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.0
+#$ NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+#$ OneDrive=C:\Users\songzeceng\OneDrive
+#$ OS=Windows_NT
+#$ PATH=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+#$ Platform=X64
+#$ PROCESSOR_ARCHITECTURE=AMD64
+#$ PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+#$ PROCESSOR_LEVEL=6
+#$ PROCESSOR_REVISION=9e0a
+#$ ProgramData=C:\ProgramData
+#$ ProgramFiles=C:\Program Files
+#$ ProgramFiles(x86)=C:\Program Files (x86)
+#$ ProgramW6432=C:\Program Files
+#$ PROMPT=$P$G
+#$ PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+#$ PUBLIC=C:\Users\Public
+#$ PUB_HOSTED_URL=https://pub.flutter-io.cn
+#$ PyCharm=D:\develop\PyCharm 2020.2.2\bin;
+#$ PyCharm Community Edition with Anaconda plugin=D:\develop\PyCharm Community Edition with Anaconda plugin 2019.1.1\bin;
+#$ SystemDrive=C:
+#$ SystemRoot=C:\WINDOWS
+#$ UCRTVersion=10.0.10240.0
+#$ UniversalCRTSdkDir=C:\Program Files (x86)\Windows Kits\10\
+#$ USERDOMAIN=LAPTOP-GCPD2768
+#$ USERDOMAIN_ROAMINGPROFILE=LAPTOP-GCPD2768
+#$ USERNAME=songzeceng
+#$ USERPROFILE=C:\Users\songzeceng
+#$ VBOX_MSI_INSTALL_PATH=D:\develop\VirtualBox\
+#$ VCINSTALLDIR=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/
+#$ VisualStudioVersion=14.0
+#$ VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64\..\..\..\Common7\Tools\
+#$ vsconsoleoutput=1
+#$ VSINSTALLDIR=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../
+#$ windir=C:\WINDOWS
+#$ WindowsLibPath=C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral
+#$ WindowsSdkDir=C:\Program Files (x86)\Windows Kits\8.1\
+#$ WindowsSDKLibVersion=winv6.3\
+#$ WindowsSDKVersion=\
+#$ WindowsSDK_ExecutablePath_x64=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\
+#$ WindowsSDK_ExecutablePath_x86=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+#$ __COMPAT_LAYER=RunAsAdmin
+#$ PATH=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC110.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ PATH=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC120.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC110.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ PATH=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC140.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC120.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC110.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ PATH=C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/bin/amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC140.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC120.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC110.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ _NVVM_BRANCH_=nvvm
+#$ _SPACE_= 
+#$ _CUDART_=cudart
+#$ _HERE_=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin
+#$ _THERE_=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin
+#$ _TARGET_SIZE_=
+#$ _TARGET_DIR_=
+#$ _TARGET_SIZE_=64
+#$ _WIN_PLATFORM_=x64
+#$ TOP=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/..
+#$ NVVMIR_LIBRARY_DIR=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../nvvm/libdevice
+#$ PATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../nvvm/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/bin/amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC140.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC120.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/redist/x64/Microsoft.VC110.CRT;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\
+#$ INCLUDES="-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../include"  
+#$ LIBRARIES=  "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"
+#$ CUDAFE_FLAGS=
+#$ PTXAS_FLAGS=
+#$ erase tmp/a_dlink.reg.c
+CMakeCUDACompilerId.cu
+#$ cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" 
+CMakeCUDACompilerId.cu
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+#$ cicc --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed  -arch compute_30 -m64 -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused -nvvmir-library "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../nvvm/libdevice/libdevice.10.bc" --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --orig_src_file_name "CMakeCUDACompilerId.cu" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"
+#$ ptxas -arch=sm_30 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_30.cubin" 
+#$ fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=30,file=tmp/CMakeCUDACompilerId.sm_30.cubin" "--image3=kind=ptx,sm=30,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" 
+#$ cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" 
+CMakeCUDACompilerId.cu
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+#$ cudafe++ --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" 
+#$ cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" 
+CMakeCUDACompilerId.cudafe1.cpp
+#$ nvlink --arch=sm_30 --register-link-binaries="tmp/a_dlink.reg.c"  -m64   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.obj"  -o "tmp/a_dlink.sm_30.cubin"
+#$ fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=30,file=tmp/a_dlink.sm_30.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" 
+#$ cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" 
+link.stub
+#$ cl.exe @"tmp/a.exe.res" -Fe"a.exe" 
+  正在创建库 a.lib 和对象 a.exp
+
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.exe"
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.exp"
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.lib"
+
+The CUDA compiler identification is NVIDIA, found in "C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCUDA/a.exe"
+
+Parsed CUDA nvcc implicit link information from above output:
+  found 'PATH=' string: [C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\]
+  found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"]
+  considering line: []
+  considering line: [C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>call "C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-2.bat" ]
+  considering line: [C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>set  1>C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-1 ]
+  considering line: [C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/bin/amd64/vcvars64.bat]
+  considering line: [IntelliJ IDEA Community Edition=D:\develop\IntelliJ IDEA Community Edition 2019.1.3\bin]
+  considering line: []
+  considering line: [PyCharm Community Edition with Anaconda plugin=D:\develop\PyCharm Community Edition with Anaconda plugin 2019.1.1\bin]
+  considering line: []
+  considering line: [erase tmp/a_dlink.reg.c]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [cicc --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed  -arch compute_30 -m64 -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused -nvvmir-library "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../nvvm/libdevice/libdevice.10.bc" --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --orig_src_file_name "CMakeCUDACompilerId.cu" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_30 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_30.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=30,file=tmp/CMakeCUDACompilerId.sm_30.cubin" "--image3=kind=ptx,sm=30,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [cudafe++ --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" ]
+  considering line: [CMakeCUDACompilerId.cudafe1.cpp]
+  considering line: [nvlink --arch=sm_30 --register-link-binaries="tmp/a_dlink.reg.c"  -m64   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.obj"  -o "tmp/a_dlink.sm_30.cubin"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=30,file=tmp/a_dlink.sm_30.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" ]
+  considering line: [link.stub]
+  considering line: [cl.exe @"tmp/a.exe.res" -Fe"a.exe" ]
+    extracted link line: [cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+  considering line: [  正在创建库 a.lib 和对象 a.exp]
+  considering line: []
+
+  link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [cl.exe] ==> recognize MSVC cl
+    arg [-nologo] ==> ignore
+    arg [tmp/a_dlink.obj] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.obj] ==> ignore
+    arg [-link] ==> ignore MSVC cl option
+    arg [-INCREMENTAL:NO] ==> ignore
+    arg [/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64] ==> dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64]
+    arg [cudadevrt.lib] ==> lib [cudadevrt.lib]
+    arg [cudart_static.lib] ==> lib [cudart_static.lib]
+    arg [-Fea.exe] ==> ignore
+  collapse library dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64] ==> [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64]
+  implicit libs: [cudadevrt.lib;cudart_static.lib]
+  implicit dirs: [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64]
+  implicit fwks: []
+
+
+Parsed CUDA nvcc include information from above output:
+  found 'PATH=' string: [C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin\amd64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/BIN\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/VCPackages;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\IDE;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Common7\Tools;C:\Program Files (x86)\HTML Help Workshop;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools\x64;C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\MSBuild\14.0\bin;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\x86_amd64;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\VCPackages;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\Performance Tools;C:\Program Files (x86)\Windows Kits\8.1\bin\x86;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;D:\develop\Miniconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\Oracle\Java\javapath;D:\develop\xftp6\;D:\develop\Xshell6\;D:\develop\Python\Python37\Scripts\;D:\develop\Python\Python37\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\develop\scala-2.11.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\develop\nodejs\;D:\develop\LLVM\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Go\bin;D:\develop\Subversion\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;D:\develop\Miniconda3;D:\develop\Miniconda3\Scripts;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\develop\Git\bin;D:\develop\maven\apache-maven-3.6.1\bin;D:\develop\Graphviz2.38\bin;D:\develop\neo4j-community-3.3.1-windows\neo4j-community-3.3.1\bin;D:\develop\flutter\flutter\bin;C:\Users\songzeceng\AppData\Roaming\npm;D:\develop\Android\sdk\platform-tools;D:\develop\mingw-w64\mingw64\bin;C:\Users\songzeceng\AppData\Local\Microsoft\WindowsApps;D:\develop\gzip-1.3.12-1-bin\bin;D:\develop\MinGW\bin;D:\develop\Miniconda3\Lib\site-packages\torch\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64;D:\develop\lua-5.3.5;D:\develop\flink-1.7.2\bin;D:\develop\jdk1.8.0_231_x64\bin;D:\develop\groovy-2.4.18\bin;C:\Users\songzeceng\go\bin;D:\develop\Microsoft VS Code\bin;D:\develop\PyCharm 2020.2.2\bin;D:\develop\CLion 2020.2.4\bin;C:\Windows\System32\]
+  found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"]
+  considering line: []
+  considering line: [C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>call "C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-2.bat" ]
+  considering line: [C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\3.17.3\CompilerIdCUDA>set  1>C:\Users\SONGZE~1\AppData\Local\Temp/tmpxft_00004d58_00000000-1 ]
+  considering line: [C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../../VC/bin/amd64/vcvars64.bat]
+  considering line: [IntelliJ IDEA Community Edition=D:\develop\IntelliJ IDEA Community Edition 2019.1.3\bin]
+  considering line: []
+  considering line: [PyCharm Community Edition with Anaconda plugin=D:\develop\PyCharm Community Edition with Anaconda plugin 2019.1.1\bin]
+  considering line: []
+  considering line: [erase tmp/a_dlink.reg.c]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [cicc --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed  -arch compute_30 -m64 -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused -nvvmir-library "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../nvvm/libdevice/libdevice.10.bc" --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --orig_src_file_name "CMakeCUDACompilerId.cu" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_30 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_30.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=30,file=tmp/CMakeCUDACompilerId.sm_30.cubin" "--image3=kind=ptx,sm=30,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  considering line: [cudafe++ --microsoft_version=1903 --msvc_target_version=1903 --compiler_bindir "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/BIN/x86_amd64/../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/8.1/" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" ]
+  considering line: [CMakeCUDACompilerId.cudafe1.cpp]
+  considering line: [nvlink --arch=sm_30 --register-link-binaries="tmp/a_dlink.reg.c"  -m64   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.obj"  -o "tmp/a_dlink.sm_30.cubin"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=30,file=tmp/a_dlink.sm_30.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" ]
+  considering line: [link.stub]
+  considering line: [cl.exe @"tmp/a.exe.res" -Fe"a.exe" ]
+    extracted link line: [cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+  considering line: [  正在创建库 a.lib 和对象 a.exp]
+  considering line: []
+  found 'INCLUDES=' string: ["-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../include"  ]
+
+  link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [cl.exe] ==> recognize MSVC cl
+    arg [-nologo] ==> ignore
+    arg [tmp/a_dlink.obj] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.obj] ==> ignore
+    arg [-link] ==> ignore MSVC cl option
+    arg [-INCREMENTAL:NO] ==> ignore
+    arg [/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64] ==> dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64]
+    arg [cudadevrt.lib] ==> lib [cudadevrt.lib]
+    arg [cudart_static.lib] ==> lib [cudart_static.lib]
+    arg [-Fea.exe] ==> ignore
+  collapse library dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/bin/../lib/x64] ==> [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64]
+  implicit libs: [cudadevrt.lib;cudart_static.lib]
+  implicit dirs: [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v10.2/lib/x64]
+  implicit fwks: []
+
+
+Determining if the CUDA compiler works passed with the following output:
+Change Dir: C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_7f5f5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_7f5f5.dir\build.make /nologo -L                  CMakeFiles\cmTC_7f5f5.dir\build
+Building CUDA object CMakeFiles/cmTC_7f5f5.dir/main.cu.obj
+	C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd -x cu -c C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\CMakeFiles\CMakeTmp\main.cu -o CMakeFiles\cmTC_7f5f5.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_7f5f5.dir\,-FS
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.cu
+Linking CUDA executable cmTC_7f5f5.exe
+	"D:\develop\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7f5f5.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\X86_AM~1\link.exe /nologo "CMakeFiles\cmTC_7f5f5.dir\main.cu.obj"  @C:\WINDOWS\TEMP\nmD27.tmp
+  正在创建库 cmTC_7f5f5.lib 和对象 cmTC_7f5f5.exp
+  正在创建库 cmTC_7f5f5.lib 和对象 cmTC_7f5f5.exp
+
+
+
+Detecting CUDA compiler ABI info compiled with the following output:
+Change Dir: C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8c720\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_8c720.dir\build.make /nologo -L                  CMakeFiles\cmTC_8c720.dir\build
+Building CUDA object CMakeFiles/cmTC_8c720.dir/CMakeCUDACompilerABI.cu.obj
+	C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd   -Xcompiler=-v -x cu -c "D:\develop\CLion 2020.2.4\bin\cmake\win\share\cmake-3.17\Modules\CMakeCUDACompilerABI.cu" -o CMakeFiles\cmTC_8c720.dir\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_8c720.dir\,-FS
+cl: 命令行 warning D9002 :忽略未知选项“-v”
+CMakeCUDACompilerABI.cu
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+cl: 命令行 warning D9002 :忽略未知选项“-v”
+CMakeCUDACompilerABI.cu
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+CMakeCUDACompilerABI.cu
+cl: 命令行 warning D9002 :忽略未知选项“-v”
+Linking CUDA executable cmTC_8c720.exe
+	"D:\develop\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8c720.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\X86_AM~1\link.exe /nologo "CMakeFiles\cmTC_8c720.dir\CMakeCUDACompilerABI.cu.obj"  @C:\WINDOWS\TEMP\nm2B4D.tmp
+LINK : warning LNK4044: 无法识别的选项“/v”；已忽略
+  正在创建库 cmTC_8c720.lib 和对象 cmTC_8c720.exp
+LINK : warning LNK4044: 无法识别的选项“/v”；已忽略
+LINK : warning LNK4044: 无法识别的选项“/v”；已忽略
+  正在创建库 cmTC_8c720.lib 和对象 cmTC_8c720.exp
+
+
+
+Parsed CUDA implicit include dir info from above output: rv=start
+  warn: unable to parse implicit include dirs!
+
+
+Parsed CUDA implicit link information from above output:
+  link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):nmake /nologo cmTC_8c720\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_8c720.dir\build.make /nologo -L                  CMakeFiles\cmTC_8c720.dir\build]
+  ignore line: [Building CUDA object CMakeFiles/cmTC_8c720.dir/CMakeCUDACompilerABI.cu.obj]
+  ignore line: [	C:\PROGRA~1\NVIDIA~2\CUDA\v10.2\bin\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler="-Zi -Ob0 -Od /RTC1" -Xcompiler=-MDd   -Xcompiler=-v -x cu -c "D:\develop\CLion 2020.2.4\bin\cmake\win\share\cmake-3.17\Modules\CMakeCUDACompilerABI.cu" -o CMakeFiles\cmTC_8c720.dir\CMakeCUDACompilerABI.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_8c720.dir\ -FS]
+  ignore line: [cl: 命令行 warning D9002 :忽略未知选项“-v”]
+  ignore line: [CMakeCUDACompilerABI.cu]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [cl: 命令行 warning D9002 :忽略未知选项“-v”]
+  ignore line: [CMakeCUDACompilerABI.cu]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [c:\program files\nvidia gpu computing toolkit\cuda\v10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失]
+  ignore line: [CMakeCUDACompilerABI.cu]
+  ignore line: [cl: 命令行 warning D9002 :忽略未知选项“-v”]
+  ignore line: [Linking CUDA executable cmTC_8c720.exe]
+  ignore line: [	"D:\develop\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8c720.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\X86_AM~1\link.exe /nologo "CMakeFiles\cmTC_8c720.dir\CMakeCUDACompilerABI.cu.obj"  @C:\WINDOWS\TEMP\nm2B4D.tmp]
+  ignore line: [LINK : warning LNK4044: 无法识别的选项“/v”；已忽略]
+  ignore line: [  正在创建库 cmTC_8c720.lib 和对象 cmTC_8c720.exp]
+  ignore line: [LINK : warning LNK4044: 无法识别的选项“/v”；已忽略]
+  ignore line: [LINK : warning LNK4044: 无法识别的选项“/v”；已忽略]
+  ignore line: [  正在创建库 cmTC_8c720.lib 和对象 cmTC_8c720.exp]
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit dirs: []
+  implicit fwks: []
+
+

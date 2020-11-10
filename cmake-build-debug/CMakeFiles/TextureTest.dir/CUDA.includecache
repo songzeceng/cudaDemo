@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/songzeceng/CLionProjects/CudaDemo/TextureTest.cu
+cuda_runtime.h
+C:/Users/songzeceng/CLionProjects/CudaDemo/cuda_runtime.h
+texture_fetch_functions.h
+C:/Users/songzeceng/CLionProjects/CudaDemo/texture_fetch_functions.h
+surface_indirect_functions.h
+C:/Users/songzeceng/CLionProjects/CudaDemo/surface_indirect_functions.h
+surface_functions.h
+C:/Users/songzeceng/CLionProjects/CudaDemo/surface_functions.h
+stdio.h
+-
+

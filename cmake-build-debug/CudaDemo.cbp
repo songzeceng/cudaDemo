@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CudaDemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CudaDemo">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CudaDemo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 CudaDemo"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CudaDemo/fast">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CudaDemo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 CudaDemo/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CudaDemo_">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CudaDemo_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 CudaDemo_"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CudaDemo_/fast">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CudaDemo_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 CudaDemo_/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextureSurfaceTest">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/TextureSurfaceTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 TextureSurfaceTest"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TextureSurfaceTest/fast">
+				<Option output="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/TextureSurfaceTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 TextureSurfaceTest/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\songzeceng\CLionProjects\CudaDemo\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/songzeceng/CLionProjects/CudaDemo/DeviceTest.cu">
+			<Option target="CudaDemo_"/>
+		</Unit>
+		<Unit filename="C:/Users/songzeceng/CLionProjects/CudaDemo/DeviceTest.cuh">
+			<Option target="CudaDemo_"/>
+		</Unit>
+		<Unit filename="C:/Users/songzeceng/CLionProjects/CudaDemo/TextureSurfaceTest.cu">
+			<Option target="TextureSurfaceTest"/>
+		</Unit>
+		<Unit filename="C:/Users/songzeceng/CLionProjects/CudaDemo/main.cu">
+			<Option target="CudaDemo"/>
+		</Unit>
+		<Unit filename="C:/Users/songzeceng/CLionProjects/CudaDemo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
