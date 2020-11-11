@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.13)
+
+set(CMAKE_CUDA_COMPILER /usr/local/cuda-10.0/bin/nvcc)
+
+project(cudaDemo CUDA)
+
+set(CMAKE_CUDA_STANDARD 14)
+
+add_executable(cudaDemo matmul_kernel.cu)
+add_executable(cudaDemo_matShared matmul_shared.cu)
+
+set_target_properties(
+        cudaDemo
+        PROPERTIES
+        CUDA_SEPARABLE_COMPILATION ON)
