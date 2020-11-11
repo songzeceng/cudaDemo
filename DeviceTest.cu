@@ -2,8 +2,18 @@
 // Created by songzeceng on 2020/11/8.
 //
 
-#include "DeviceTest.cuh"
 #include <stdio.h>
+
+struct __align__(8) {
+  int x;
+  int y;
+} A;
+
+struct __align__(16) {
+    int x;
+    int y;
+    int z;
+} B;
 
 int main() {
     int deviceCount;

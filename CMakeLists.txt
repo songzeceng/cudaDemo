@@ -4,8 +4,9 @@ project(CudaDemo CUDA)
 set(CMAKE_CUDA_STANDARD 14)
 
 add_executable(CudaDemo main.cu)
-add_executable(CudaDemo_ DeviceTest.cu DeviceTest.cuh)
+add_executable(CudaDemo_ DeviceTest.cu)
 add_executable(TextureSurfaceTest TextureSurfaceTest.cu)
+add_executable(OccupancyTest OccupancyTest.cu)
 
 set_target_properties(
         CudaDemo

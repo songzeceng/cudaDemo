@@ -1,5 +1,0 @@
-C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/CudaDemo.dir
-C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/CudaDemo_.dir
-C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/TextureSurfaceTest.dir
-C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/songzeceng/CLionProjects/CudaDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
