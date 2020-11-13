@@ -1,9 +1,11 @@
 cmake_minimum_required(VERSION 3.13)
 
-set(CMAKE_CUDA_COMPILER /usr/local/cuda-10.0/bin/nvcc)
+#set(CMAKE_CUDA_COMPILER /usr/local/cuda-10.0/bin/nvcc)
 project(CudaDemo CUDA)
 
 set(CMAKE_CUDA_STANDARD 14)
+
+set(NVCC_FLAGS_EXTRA "-gencode arch=compute_61,code=sm_61 -rdc=true")
 
 add_executable(CudaDemo main.cu)
 add_executable(CudaDemo_ DeviceTest.cu)
@@ -15,6 +17,7 @@ add_executable(SumMatrix SumMatrix.cu)
 add_executable(ThreadIdLocate ThreadIdLocate.cu)
 add_executable(ThreadFenceTest ThreadFenceTest.cu)
 add_executable(UnrollTest UnrollTest.cu)
+add_executable(DynamicParallelTest DynamicParallelTest.cu)
 
 set_target_properties(
         CudaDemo
