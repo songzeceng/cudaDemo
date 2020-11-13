@@ -11,6 +11,10 @@ add_executable(TextureSurfaceTest TextureSurfaceTest.cu)
 add_executable(OccupancyTest OccupancyTest.cu)
 add_executable(matmul_kernel matmul_kernel.cu)
 add_executable(matmul_shared matmul_shared.cu)
+add_executable(SumMatrix SumMatrix.cu)
+add_executable(ThreadIdLocate ThreadIdLocate.cu)
+add_executable(ThreadFenceTest ThreadFenceTest.cu)
+add_executable(UnrollTest UnrollTest.cu)
 
 set_target_properties(
         CudaDemo

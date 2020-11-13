@@ -9,7 +9,7 @@ __global__ void MyKernel(float *dev0Ptr, float *dev1Ptr, int begin, int size) {
 }
 
 void CUDART_CB MyCallback(cudaStream_t stream, cudaError_t status, void *data) {
-    printf("Inside callback %d with status %d\n", (int) data, status);
+    printf("Inside callback %d with status %d\n", *((int *) data), status);
 }
 
 int main() {
