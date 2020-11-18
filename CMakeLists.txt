@@ -18,6 +18,7 @@ add_executable(ThreadIdLocate ThreadIdLocate.cu)
 add_executable(ThreadFenceTest ThreadFenceTest.cu)
 add_executable(UnrollTest UnrollTest.cu)
 add_executable(DynamicParallelTest DynamicParallelTest.cu)
+add_executable(IntrinsicsTest IntrinsicsTest.cu)
 
 set_target_properties(
         CudaDemo
