@@ -23,6 +23,7 @@ add_executable(SharedMemoryStaticDynamicTest SharedMemoryStaticDynamicTest.cu)
 add_executable(SharedMemoryReduceTest SharedMemoryReduceTest.cu)
 add_executable(transposeMatrixWithSharedMemory transposeMatrixWithSharedMemory.cu)
 add_executable(ConstantMemoryTest ConstantMemoryTest.cu)
+add_executable(ShuffleTest ShuffleTest.cu)
 
 set_target_properties(
         CudaDemo
