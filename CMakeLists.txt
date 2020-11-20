@@ -19,6 +19,9 @@ add_executable(ThreadFenceTest ThreadFenceTest.cu)
 add_executable(UnrollTest UnrollTest.cu)
 add_executable(DynamicParallelTest DynamicParallelTest.cu)
 add_executable(IntrinsicsTest IntrinsicsTest.cu)
+add_executable(SharedMemoryStaticDynamicTest SharedMemoryStaticDynamicTest.cu)
+add_executable(SharedMemoryReduceTest SharedMemoryReduceTest.cu)
+add_executable(transposeMatrixWithSharedMemory transposeMatrixWithSharedMemory.cu)
 
 set_target_properties(
         CudaDemo
