@@ -24,6 +24,8 @@ add_executable(SharedMemoryReduceTest MemoryTest/SharedMemory/SharedMemoryReduce
 add_executable(transposeMatrixWithSharedMemory MemoryTest/SharedMemory/transposeMatrixWithSharedMemory.cu)
 add_executable(ConstantMemoryTest MemoryTest/ConstantMemoryTest.cu)
 add_executable(ShuffleTest InstructionTest/ShuffleTest.cu)
+add_executable(ConcurrentKernelInNotNullStream StreamEventTest/ConcurrentKernelInNotNullStream.cu)
+add_executable(StreamDependencyTest StreamEventTest/StreamDependencyTest.cu)
 
 set_target_properties(
         CudaDemo
