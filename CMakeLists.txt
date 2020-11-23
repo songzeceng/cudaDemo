@@ -26,6 +26,8 @@ add_executable(ConstantMemoryTest MemoryTest/ConstantMemoryTest.cu)
 add_executable(ShuffleTest InstructionTest/ShuffleTest.cu)
 add_executable(ConcurrentKernelInNotNullStream StreamEventTest/ConcurrentKernelInNotNullStream.cu)
 add_executable(StreamDependencyTest StreamEventTest/StreamDependencyTest.cu)
+add_executable(OverlapKernelAndDataProcessTest StreamEventTest/OverlapKernelAndDataProcessTest.cu)
+add_executable(OverlapGPUCPU StreamEventTest/OverlapGPUCPU.cu)
 
 set_target_properties(
         CudaDemo
