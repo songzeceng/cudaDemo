@@ -62,9 +62,10 @@ __global__ void TestKernel(int *a) {
 //    printf("%d, %d\n", *a, x);
 }
 
-//__global__ void testKernel2(float* value, float increment) {
+__global__ void testKernel2(float* value, float increment) {
 //    printf("%f\n", myAtomicAddFloat(value, increment));
-//}
+    atomicAdd(value, increment);
+}
 
 // Use nvcc --ptx -o IntrinsicsTest.ptx IntrinsicsTest.cu to get ptx file
 __global__ void intrinsic(float* ptr) {
@@ -124,18 +125,18 @@ int main() {
     }
     printf("\n");
 
-//    float *h_f = (float *)malloc(sizeof(float ));
-//    *h_f = 4.0f;
-//
-//    float *f;
-//    cudaMalloc(&f, sizeof(float ));
-//    cudaMemcpy(f, h_f, sizeof(float ), cudaMemcpyHostToDevice);
-//
-//    testKernel2<<<1, 10>>>(f, 1.2);
-//
-//    cudaMemcpy(h_f, f, sizeof(float ), cudaMemcpyDeviceToHost);
+    float *h_f = (float *)malloc(sizeof(float ));
+    *h_f = 4.0f;
 
-//    printf("%f\n", *h_f);
+    float *f;
+    cudaMalloc(&f, sizeof(float ));
+    cudaMemcpy(f, h_f, sizeof(float ), cudaMemcpyHostToDevice);
+
+    testKernel2<<<1, 10>>>(f, 0.2);
+
+    cudaMemcpy(h_f, f, sizeof(float ), cudaMemcpyDeviceToHost);
+
+    printf("%f\n", *h_f);
 
     cudaFree(a);
     cudaFree(values_read_d);
