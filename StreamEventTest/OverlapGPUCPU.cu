@@ -45,15 +45,17 @@ int main() {
     cudaEvent_t stop;
     cudaEventCreate(&stop);
 
-    int stream_id[NSTREAM] = {0, 1, 2, 3};
+    int* stream_id = (int *) malloc(NSTREAM * sizeof(int ));
     // Deep first
     for (int i = 0; i < NSTREAM; i++) {
+        stream_id[i] = i;
         int ioffset = i * iElem;
         cudaMemcpyAsync(&d_A[ioffset], &h_A[ioffset], iBytes, cudaMemcpyHostToDevice, streams[i]);
         kernel<<<grid, block, 0, streams[i]>>>(&d_A[ioffset], NSTREAM);
         cudaMemcpyAsync(&h_A[ioffset], &d_A[ioffset], iBytes, cudaMemcpyDeviceToHost, streams[i]);
         cudaEventRecord(stop, streams[NSTREAM - 1]);
-        cudaStreamAddCallback(streams[i], my_callback, (void *) &stream_id[i], 0);
+        cudaStreamAddCallback(streams[i], my_callback, (void *) (stream_id + i), 0);
+        // userData must be a pointer, neither simple array nor simple variable
     }
 
     int count = 0;

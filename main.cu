@@ -39,6 +39,7 @@ int main() {
         hostPtr[i] = i + 1;
     }
 
+//    int* stream_id = (int *) malloc(2 * sizeof(int ));
 //    for (int i = 0; i < 2; i++) {
 //        cudaMemcpyAsync(&dev0Ptr[i * size], &hostPtr[i * size], size * sizeof(float ), cudaMemcpyHostToDevice, stream[i]);
 //
@@ -46,7 +47,7 @@ int main() {
 //
 //        cudaMemcpyAsync(&hostPtr[i * size], &dev1Ptr[i * size], size * sizeof(float ), cudaMemcpyDeviceToHost, stream[i]);
 //
-//        cudaStreamAddCallback(stream[i], MyCallback, (void *) i, 0);
+//        cudaStreamAddCallback(stream[i], MyCallback, (void *) (stream_id + i), 0);
 //
 //        cudaStreamDestroy(stream[i]);
 //    }
