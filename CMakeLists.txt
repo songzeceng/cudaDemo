@@ -28,6 +28,8 @@ add_executable(ConcurrentKernelInNotNullStream StreamEventTest/ConcurrentKernelI
 add_executable(StreamDependencyTest StreamEventTest/StreamDependencyTest.cu)
 add_executable(OverlapKernelAndDataProcessTest StreamEventTest/OverlapKernelAndDataProcessTest.cu)
 add_executable(OverlapGPUCPU StreamEventTest/OverlapGPUCPU.cu)
+add_executable(dist_v1_cuda high_performance_computing/dist_v1_cuda/kernel.cu)
+add_executable(dist_v2_cuda high_performance_computing/distance_v2_cuda/kernel_unified.cu)
 
 set_target_properties(
         CudaDemo
