@@ -31,6 +31,8 @@ add_executable(OverlapGPUCPU StreamEventTest/OverlapGPUCPU.cu)
 add_executable(dist_v1_cuda high_performance_computing/dist_v1_cuda/kernel.cu)
 add_executable(dist_v2_cuda high_performance_computing/distance_v2_cuda/kernel_unified.cu)
 add_executable(dist_2d high_performance_computing/dist_2d/dist_2d.cu)
+add_executable(thrust_norm high_performance_computing/function_libs_test/thrust/norm/kernel.cu)
+add_executable(thrust_dist_1d high_performance_computing/function_libs_test/thrust/dist_1d/kernel.cu)
 
 set_target_properties(
         CudaDemo
